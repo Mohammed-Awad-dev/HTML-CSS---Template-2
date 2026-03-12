@@ -1109,6 +1109,7 @@ header nav form i:hover {
   padding: 20px;
 }
 .subscripe form input[type="email"] {
+  color: white;
   width: 50%;
   outline: none;
   border: none;
@@ -1117,7 +1118,7 @@ header nav form i:hover {
 }
 
 .subscripe input[type="email"]::placeholder {
-  color: white;
+  color: #e7e7e7;
 }
 .subscripe form input[type="submit"] {
   width: 35%;
